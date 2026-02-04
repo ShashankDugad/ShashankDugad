@@ -27,7 +27,7 @@ focus: [ MLOps, NLP, RAG Systems, LLM Orchestration, Real-Time Analytics ]
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,aws,docker,kafka,postgres,redis,fastapi,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,aws,docker,kafka,postgres,redis,fastapi,linux,kubernetes&theme=dark" />
 </p>
 
 | Category | Technologies |
