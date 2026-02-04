@@ -40,13 +40,6 @@ focus: [ MLOps, NLP, RAG Systems, LLM Orchestration, Real-Time Analytics ]
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShashankDugad&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
-</p>
-
----
 
 ### 🔥 Featured Projects
 
@@ -178,11 +171,4 @@ focus: [ MLOps, NLP, RAG Systems, LLM Orchestration, Real-Time Analytics ]
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-</p>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShashankDugad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=ShashankDugad&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
