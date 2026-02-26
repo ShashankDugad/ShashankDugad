@@ -140,7 +140,7 @@ focus: [ MLOps, NLP, RAG Systems, LLM Orchestration, Real-Time Analytics ]
 
 | Degree | Institution | GPA | Timeline |
 |--------|-------------|-----|----------|
-| **MS Computer Engineering** | NYU Tandon School of Engineering | 3.6/4.0 | 2024-2026 |
+| **MS Computer Engineering** | NYU Tandon School of Engineering | 3.7/4.0 | 2024-2026 |
 | **B.Tech Mechanical Engineering** | VIT Vellore | 8.5/10 | 2019-2023 |
 
 **Coursework:** Machine Learning, MLOps, Deep Learning, NLP, Big Data, Engineering Mathematics
